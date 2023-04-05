@@ -1,0 +1,17 @@
+Consul Snapshots
+https://developer.hashicorp.com/consul/commands/snapshot
+
+Consul Snapshots - API
+https://developer.hashicorp.com/consul/api-docs/snapshot
+
+Consul Snapshot Agent (Automated Backups)
+https://developer.hashicorp.com/consul/docs/enterprise/backups
+
+Consul Snapshot Agent Configuration
+https://developer.hashicorp.com/consul/commands/snapshot/agent
+
+Consul Snapshot Agent - Example Configuration File
+https://github.com/btkrausen/hashicorp/blob/master/consul/consul-snapshot.json
+
+Consul Snapshot Agent - Service File
+https://github.com/btkrausen/hashicorp/blob/master/consul/consulsnapshots.service

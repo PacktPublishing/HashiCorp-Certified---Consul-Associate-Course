@@ -1,0 +1,30 @@
+Agent API Documentation
+https://developer.hashicorp.com/consul/api-docs/agent/service
+
+Consul Services Register - CLI
+https://developer.hashicorp.com/consul/commands/services/register
+
+Service File Definitions
+https://developer.hashicorp.com/consul/docs/discovery/services
+
+Service Health Checks
+https://developer.hashicorp.com/consul/docs/discovery/checks
+
+Catalog API Documentation
+https://developer.hashicorp.com/consul/docs/discovery/checks
+
+Prepared Query - API
+https://developer.hashicorp.com/consul/api-docs/query
+
+Prepared Query - ACL Rules
+https://developer.hashicorp.com/consul/docs/security/acl/acl-rules#prepared-query-rules
+
+GeoFailover with Prepared Queries
+https://developer.hashicorp.com/consul/tutorials/developer-discovery/automate-geo-failover
+
+Prepared Query Templates
+https://developer.hashicorp.com/consul/api-docs/query#prepared-query-templates
+
+Prepared Query Lookups
+https://developer.hashicorp.com/consul/docs/discovery/dns#prepared-query-lookups
+

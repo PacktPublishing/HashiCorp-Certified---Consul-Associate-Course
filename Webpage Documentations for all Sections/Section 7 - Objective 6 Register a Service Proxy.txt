@@ -1,0 +1,18 @@
+Service Mesh Documentation
+https://developer.hashicorp.com/consul/docs/connect
+
+Envoy Proxy Information
+https://developer.hashicorp.com/consul/docs/connect/proxies/envoy
+
+Understanding Upstream vs. Downstream
+https://developer.hashicorp.com/consul/docs/connect/proxies/envoy
+
+Intentions Documentation
+https://developer.hashicorp.com/consul/docs/connect/intentions
+
+Intentions - API
+https://developer.hashicorp.com/consul/api-docs/connect/intentions
+
+Lab Walk through on the HashiCorp Learn site
+https://developer.hashicorp.com/consul/tutorials/developer-mesh/service-mesh-with-envoy-proxy?in=consul%2Fdeveloper-mesh
+

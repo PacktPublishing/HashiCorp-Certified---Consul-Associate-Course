@@ -1,0 +1,20 @@
+The Raft Consensus Algorithm
+https://raft.github.io/
+
+Gossip Protocol - Documentation
+https://www.serf.io/docs/internals/gossip.html
+
+Fault Tolerance
+https://developer.hashicorp.com/consul/docs/architecture/consensus#deployment_table
+
+Consul Enchanced Read Scalability
+https://developer.hashicorp.com/consul/docs/enterprise/read-scale
+
+Read Replica
+https://developer.hashicorp.com/consul/docs/agent/config/config-files#_read_replica
+
+Redundancy Zones
+https://developer.hashicorp.com/consul/docs/enterprise/redundancy
+
+Auto Pilot Tutorial
+https://developer.hashicorp.com/consul/tutorials/datacenter-operations/autopilot-datacenter-operations

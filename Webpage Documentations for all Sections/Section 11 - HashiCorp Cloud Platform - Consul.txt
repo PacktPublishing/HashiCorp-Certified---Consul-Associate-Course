@@ -1,0 +1,2 @@
+HashiCorp Cloud Platform
+https://www.hashicorp.com/cloud

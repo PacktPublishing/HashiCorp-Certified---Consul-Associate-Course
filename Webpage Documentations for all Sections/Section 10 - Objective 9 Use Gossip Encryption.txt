@@ -1,0 +1,14 @@
+Consul Security Model
+https://developer.hashicorp.com/consul/docs/security
+
+Gossip Encryption
+https://developer.hashicorp.com/consul/docs/security/encryption
+
+Consul Keg
+https://developer.hashicorp.com/consul/commands/keygen
+
+Consul Keyring
+https://developer.hashicorp.com/consul/commands/keyring
+
+
+

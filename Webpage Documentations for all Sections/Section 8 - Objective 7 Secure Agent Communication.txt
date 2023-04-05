@@ -1,0 +1,11 @@
+Creating TLS Certs with Consul
+https://developer.hashicorp.com/consul/commands/tls/cert#examples
+
+Security Model
+https://developer.hashicorp.com/consul/docs/security
+
+Consul - Encryption
+https://developer.hashicorp.com/consul/docs/security/encryption
+
+RPC Encryption with TLS
+https://developer.hashicorp.com/consul/docs/security/encryption#rpc-encryption-with-tls

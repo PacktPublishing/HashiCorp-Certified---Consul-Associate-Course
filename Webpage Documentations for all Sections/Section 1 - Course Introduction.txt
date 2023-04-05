@@ -1,0 +1,26 @@
+1. Course Introduction
+
+Ensuring Cross Cloud, High Availability for Your Applications - Bryan Krausen
+https://www.youtube.com/watch?v=OTcSHKljhLk
+
+HashiCrop Certified: Consul Associate - Official Exam Site
+https://www.hashicorp.com/certification/consul-associate
+
+HashiCorp Learn Platform - Consul
+https://developer.hashicorp.com/consul/tutorials
+
+Consul Documentation
+https://developer.hashicorp.com/consul/docs
+
+Consul API Documentation
+https://developer.hashicorp.com/consul/api-docs
+
+HashiCorp Certified: Consul Associate Practice Exam
+https://www.udemy.com/course/consul-associate-practice-exam/?referralCode=DFDB41615ADFB8C1CD6A
+
+Demystifying Service Mesh - Steven Wilson
+https://www.youtube.com/watch?v=bEFILWrRJJ4
+
+Consul Service Mesh - Deep Dive - Nic Jackson
+https://www.youtube.com/watch?v=Aq1uTozNajI
+

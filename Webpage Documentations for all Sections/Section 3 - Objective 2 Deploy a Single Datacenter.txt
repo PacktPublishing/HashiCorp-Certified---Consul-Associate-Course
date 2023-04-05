@@ -1,0 +1,24 @@
+Download the Consul Binaries from HashiCorp
+https://releases.hashicorp.com/consul/
+
+Consul Dev Mode
+https://developer.hashicorp.com/consul/tutorials/certification-associate-tutorials/get-started-agent
+
+Reloadable Configuration Iteams
+https://developer.hashicorp.com/consul/docs/agent/config/config-files#reloadable-configuration
+
+Example of a Server Configuration File
+https://github.com/btkrausen/hashicorp/blob/master/consul/config.hcl
+
+Consul Agent - Available Options
+https://developer.hashicorp.com/consul/docs/agent/config/config-files
+
+Consul Agent - Client-related Options
+https://developer.hashicorp.com/consul/api-docs/agent/service#parameters-2
+
+Tutorial on Consul DNS Forwarding
+https://developer.hashicorp.com/consul/tutorials/networking/dns-forwarding
+
+Consul Cloud Auto-join
+https://developer.hashicorp.com/consul/docs/install/cloud-auto-join
+

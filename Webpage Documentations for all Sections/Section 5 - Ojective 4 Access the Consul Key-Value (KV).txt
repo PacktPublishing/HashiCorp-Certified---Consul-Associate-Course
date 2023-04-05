@@ -1,0 +1,15 @@
+Consul K-V - API
+https://developer.hashicorp.com/consul/api-docs/kv
+
+Consul K-V - CLI
+https://developer.hashicorp.com/consul/commands/kv
+
+Consul Watches
+https://developer.hashicorp.com/consul/docs/dynamic-app-config/watches
+
+Envconsul - GitHub Repo
+https://github.com/hashicorp/envconsul
+
+Consul-Template
+https://github.com/hashicorp/consul-template
+
